@@ -1,6 +1,6 @@
 {
   "name": "@naimikan/alpha",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
@@ -15,7 +15,8 @@
     {
       "name": "Guillem Aldeguer",
       "email": "galdeguer@userzoom.com"
-    }, {
+    },
+    {
       "name": "Anna Mora",
       "email": "amora@userzoom.com"
     }
