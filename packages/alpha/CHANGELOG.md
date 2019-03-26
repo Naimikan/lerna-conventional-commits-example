@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@1.2.0...@naimikan/alpha@1.3.0) (2019-03-26)
+
+
+### Bug Fixes
+
+* typo in message ([e820bf8](https://github.com/Naimikan/lerna-conventional-commits-example/commit/e820bf8))
+* upper-case message ([2aebbf7](https://github.com/Naimikan/lerna-conventional-commits-example/commit/2aebbf7))
+
+
+### Features
+
+* part of classic Hello world ([9a58ec2](https://github.com/Naimikan/lerna-conventional-commits-example/commit/9a58ec2))
+
+
+
+
+
 # 1.2.0 (2019-03-26)
 
 
