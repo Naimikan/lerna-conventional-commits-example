@@ -1,2 +1,2 @@
 
-[CHANGELOG](changelog)
+[CHANGELOG](./CHANGELOG.md)
