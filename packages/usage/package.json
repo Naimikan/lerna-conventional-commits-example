@@ -1,8 +1,8 @@
 {
   "name": "@naimikan/usage",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "dependencies": {
-    "@naimikan/alpha": "^3.0.0",
+    "@naimikan/alpha": "^3.0.1",
     "@naimikan/beta": "^1.3.0"
   },
   "publishConfig": {
