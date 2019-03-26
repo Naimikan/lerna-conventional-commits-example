@@ -3,5 +3,12 @@
   "version": "5.0.4",
   "publishConfig": {
     "registry": "http://localhost:4873"
-  }
+  },
+  "description": "[CHANGELOG](./CHANGELOG.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
