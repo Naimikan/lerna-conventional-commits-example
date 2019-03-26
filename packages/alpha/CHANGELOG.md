@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@4.1.0...@naimikan/alpha@5.0.0) (2019-03-26)
+
+
+### Bug Fixes
+
+* **alpha:** removed Molly ([e45fb9b](https://github.com/Naimikan/lerna-conventional-commits-example/commit/e45fb9b)), closes [#2](https://github.com/Naimikan/lerna-conventional-commits-example/issues/2)
+
+
+### BREAKING CHANGES
+
+* **alpha:** removed Molly
+
+
+
+
+
 # [4.1.0](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@4.0.0...@naimikan/alpha@4.1.0) (2019-03-26)
 
 
