@@ -1,9 +1,6 @@
 {
   "name": "@naimikan/alpha",
   "version": "5.0.1",
-  "directories": {
-    "doc": "."
-  },
   "publishConfig": {
     "registry": "http://localhost:4873"
   }
