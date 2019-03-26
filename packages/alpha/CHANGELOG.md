@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.7](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@3.0.6...@naimikan/alpha@3.0.7) (2019-03-26)
+
+**Note:** Version bump only for package @naimikan/alpha
+
+
+
+
+
 ## [3.0.6](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@3.0.5...@naimikan/alpha@3.0.6) (2019-03-26)
 
 **Note:** Version bump only for package @naimikan/alpha
