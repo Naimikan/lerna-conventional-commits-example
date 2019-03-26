@@ -10,5 +10,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "Guillem Aldeguer",
+      "email": "galdeguer@userzoom.com"
+    }, {
+      "name": "Anna Mora",
+      "email": "amora@userzoom.com"
+    }
+  ]
 }

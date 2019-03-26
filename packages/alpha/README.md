@@ -1,3 +1,3 @@
-# @naimikan/alpha
+### Changelog
 
-[CHANGELOG](./CHANGELOG.md)
+* [CHANGELOG]()
