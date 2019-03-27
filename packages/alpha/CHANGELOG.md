@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [9.0.0](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@8.0.1...@naimikan/alpha@9.0.0) (2019-03-27)
+
+
+### Features
+
+* **alpha:** added Molly Banana ([83e94d3](https://github.com/Naimikan/lerna-conventional-commits-example/commit/83e94d3))
+* **alpha:** added Molly Dolly ([35b5047](https://github.com/Naimikan/lerna-conventional-commits-example/commit/35b5047))
+* **alpha:** added Molly Molly ([0c7daa7](https://github.com/Naimikan/lerna-conventional-commits-example/commit/0c7daa7))
+
+
+### BREAKING CHANGES
+
+* **alpha:** added Molly Molly
+
+
+
+
+
 ## [8.0.1](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@8.0.0...@naimikan/alpha@8.0.1) (2019-03-27)
 
 
