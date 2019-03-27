@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [7.1.0](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@7.0.0...@naimikan/alpha@7.1.0) (2019-03-27)
+
+
+### Bug Fixes
+
+* **alpha:** added D ([07bd9fc](https://github.com/Naimikan/lerna-conventional-commits-example/commit/07bd9fc))
+
+
+### Features
+
+* **alpha:** added B ([f53aa6a](https://github.com/Naimikan/lerna-conventional-commits-example/commit/f53aa6a))
+* **alpha:** added C ([1ddc643](https://github.com/Naimikan/lerna-conventional-commits-example/commit/1ddc643))
+* **alpha:** removed A ([37a030f](https://github.com/Naimikan/lerna-conventional-commits-example/commit/37a030f))
+
+
+
+
+
 # [7.0.0](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@6.0.0...@naimikan/alpha@7.0.0) (2019-03-27)
 
 

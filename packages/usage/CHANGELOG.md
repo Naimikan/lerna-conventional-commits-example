@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.30](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/usage@1.0.29...@naimikan/usage@1.0.30) (2019-03-27)
+
+**Note:** Version bump only for package @naimikan/usage
+
+
+
+
+
 ## [1.0.29](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/usage@1.0.28...@naimikan/usage@1.0.29) (2019-03-27)
 
 **Note:** Version bump only for package @naimikan/usage
