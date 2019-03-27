@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [7.2.0](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@7.1.2...@naimikan/alpha@7.2.0) (2019-03-27)
+
+
+### Features
+
+* **alpha:** added Z BREAKING CHANGE: added Z ([fba3010](https://github.com/Naimikan/lerna-conventional-commits-example/commit/fba3010))
+
+
+
+
+
 ## [7.1.2](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/alpha@7.1.1...@naimikan/alpha@7.1.2) (2019-03-27)
 
 
