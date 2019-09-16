@@ -1,6 +1,6 @@
 {
   "name": "@naimikan/usage",
-  "version": "1.0.36",
+  "version": "1.0.37",
   "dependencies": {
     "@naimikan/alpha": "^9.0.0",
     "@naimikan/beta": "^1.3.0"
