@@ -1,9 +1,9 @@
 {
   "name": "@naimikan/usage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "@naimikan/alpha": "^1.0.0",
-    "@naimikan/beta": "^0.1.0"
+    "@naimikan/beta": "^0.1.1"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"

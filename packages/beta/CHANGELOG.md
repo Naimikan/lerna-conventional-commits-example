@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/Naimikan/lerna-conventional-commits-example/compare/@naimikan/beta@0.1.0...@naimikan/beta@0.1.1) (2019-11-29)
+
+
+### Bug Fixes
+
+* fix beta ([1b56c7d](https://github.com/Naimikan/lerna-conventional-commits-example/commit/1b56c7d2ee1d7409ac670a4436d9a4627ca077e8))
+
+
+
+
+
 # 0.1.0 (2019-11-29)
 
 
