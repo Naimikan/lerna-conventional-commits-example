@@ -1,1 +1,1 @@
-module.exports = 'world beta mod';
+module.exports = 'world beta';
