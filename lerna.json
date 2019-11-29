@@ -7,6 +7,9 @@
     "publish": {
       "message": "chore: release"
     },
+    "postpublish": {
+      "command": "git push"
+    },
     "version": {
       "message": "chore: version"
     }
