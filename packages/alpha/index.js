@@ -1,1 +1,1 @@
-module.exports = 'Hello Molly Banana mod';
+module.exports = 'Hello Molly Banana Apple';
