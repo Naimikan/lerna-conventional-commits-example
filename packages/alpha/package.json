@@ -1,6 +1,6 @@
 {
   "name": "@naimikan/alpha",
-  "version": "9.0.0",
+  "version": "9.0.1-alpha.2+d4ab876",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
@@ -20,5 +20,6 @@
       "name": "Anna Mora",
       "email": "amora@userzoom.com"
     }
-  ]
+  ],
+  "gitHead": "d4ab87649597217a027d79a876b40eed439533bb"
 }
